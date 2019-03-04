@@ -69,6 +69,9 @@ http://167.114.215.25/phpmyadmin/index.php
 dados
 DaDos2019!@#
 
+root
+Bdnew2019@@ok!
+
 obs: subindo as tabelas grandes para testar a performance,
 do mysql/sv.
 ```
