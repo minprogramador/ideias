@@ -3,6 +3,7 @@
 
 
 #### origem: vpsdime.com
+```
 plano: HighMemory - VD6GB
 cpu: 4 vCPU
 ram: 6bg
@@ -20,9 +21,11 @@ root
 
 obs: esta coletando ceps da nat,
 remover antes do dia de vencimento.
+```
 -------------------------------------------
 
 #### origem: time4vps.com
+```
 plano: Storage VPS - S2
 cpu: 1 x 1.7 GHz
 ram: 2048 MB
@@ -40,9 +43,11 @@ dados2019!@#
 
 obs: subindo as tabelas grandes para testar a performance,
 do mysql/sv.
+```
 ----------------------------------------
 
 #### origem: https://grupoaeg.com
+```
 plano: vps 8gb
 cpu: ?
 ram: 8gb
@@ -60,6 +65,7 @@ DaDos2019!@#
 
 obs: subindo as tabelas grandes para testar a performance,
 do mysql/sv.
+```
 ----------------------------------------
 
 
