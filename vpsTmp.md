@@ -5,6 +5,8 @@
 #### origem: vpsdime.com
 ```
 plano: HighMemory - VD6GB
+Bandwidth: 2TB Traffic
+Rede:  10Gbps Uplink
 cpu: 4 vCPU
 ram: 6bg
 disco: 30 GB
@@ -27,6 +29,8 @@ remover antes do dia de vencimento.
 #### origem: time4vps.com
 ```
 plano: Storage VPS - S2
+Bandwidth: 1000 Mbps (Monthly limit: 16 TB)
+Rede: 1 Gbps port speed ( 1.00 EUR ) 
 cpu: 1 x 1.7 GHz
 ram: 2048 MB
 disco: 2048 GB
@@ -49,7 +53,9 @@ do mysql/sv.
 #### origem: https://grupoaeg.com
 ```
 plano: vps 8gb
-cpu: ?
+Bandwidth: ilimitado ? kk
+Rede: ?? canada 100mb?
+cpu: 3x Intel Xeon CPU
 ram: 8gb
 disco: 1000GB
 valor: R$99.99 
